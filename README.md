@@ -1,1 +1,1 @@
-# nerdcast-chrome-extension
+# Nerdcast Chrome Extension
