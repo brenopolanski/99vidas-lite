@@ -11,7 +11,7 @@
 
 ###### Chrome
 
-1. Clone ou faça o [download](https://github.com/brenopolanski/99vidas-lite/archive/master.zip) do projeto;
+1. Clonar ou fazer o [download](https://github.com/brenopolanski/99vidas-lite/archive/master.zip) do projeto;
 
 2. Navevar até `chrome://extensions`;
 
