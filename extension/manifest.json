@@ -18,5 +18,19 @@
   "icons": {
     "48": "icon-48.png",
     "128": "icon-128.png"
-  }
+  },
+  "content_scripts": [
+    {
+      "run_at": "document_start",
+      "matches": [
+        "http://99vidas.com.br/*"
+      ],
+      "js": [
+        "vendor/mousetrap.js",
+        "vendor/mousetrap-global-bind.js",
+        "vendor/mousetrap-bind-dictionary.js",
+        "content.js"
+      ]
+    }
+  ]
 }
