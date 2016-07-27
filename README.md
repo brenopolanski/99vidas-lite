@@ -5,6 +5,22 @@
 ![demo1](demo1.png)
 ![demo2](demo2.png)
 
+## Instalando
+
+###### Chrome
+
+1. Clone ou faça o [download](https://github.com/brenopolanski/99vidas-lite/archive/master.zip) do projeto;
+
+2. Navevar até `chrome://extensions`;
+
+3. Clicar em `Load unpacked extension...`;
+
+4. Selecionar a pasta `extension`.
+
+###### Firefox
+
+*Em breve*
+
 ## Atalhos do teclado
 
 - Ir para pesquisa: <kbd>/</kbd>
