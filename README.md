@@ -23,7 +23,7 @@
 
 *Em breve*
 
-## Atalhos do teclado
+## Teclas de atalho
 
 - Ir para pesquisa: <kbd>/</kbd>
 - Carregar mais casts: <kbd>space</kbd>
