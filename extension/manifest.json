@@ -1,7 +1,7 @@
 {
   "name": "99Vidas Lite",
   "version": "1.0.0",
-  "description": "",
+  "description": "Chrome extensão que força a versão web mobile do 99Vidas",
   "homepage_url": "https://github.com/brenopolanski/99vidas-lite",
   "manifest_version": 2,
   "minimum_chrome_version": "50",
