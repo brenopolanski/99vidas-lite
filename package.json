@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "package": "npm run package:blink && npm run package:gecko",
+    "package:blink": "cd extension && zip -r ../99vidas-lite.zip * && cd ..",
+    "package:gecko": "cd extension && zip -r ../99vidas-lite.xpi * && cd .."
+  }
+}
