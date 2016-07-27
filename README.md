@@ -1,9 +1,24 @@
-# 99Vidas Lite
+# <img src="extension/icon-128.png" width="45" align="left"> 99Vidas Lite
 
 ## Exemplo
 
 ![demo1](demo1.png)
 ![demo2](demo2.png)
+
+## Atalhos do teclado
+
+- Ir para pesquisa: <kbd>/</kbd>
+- Carregar mais casts: <kbd>space</kbd>
+- Botão play/pause do player: <kbd>p</kbd>
+- Botão mute do player: <kbd>m</kbd>
+- Ir para página principal: <kbd>g</kbd> <kbd>h</kbd>
+- Ir para página 2-pak: <kbd>g</kbd> <kbd>2</kbd>
+- Ir para página 4x4: <kbd>g</kbd> <kbd>4</kbd>
+- Ir para página estilo 99vidas: <kbd>g</kbd> <kbd>9</kbd>
+- Ir para página História dos Videogames: <kbd>g</kbd> <kbd>v</kbd>
+- Ir para página Pancadão: <kbd>g</kbd> <kbd>p</kbd>
+- Scroll para o topo: <kbd>g</kbd> <kbd>g</kbd>
+- Scroll para baixo: <kbd>G</kbd>
 
 ## Contribuindo
 
@@ -12,8 +27,6 @@
 3. Comite suas alterações: `git commit -am 'Add some feature'`
 4. Envie as alterações para a sua brach: `git push origin my-new-feature`
 5. Submeta um Pull Request :)
-
-## Créditos
 
 ## Referências
 
