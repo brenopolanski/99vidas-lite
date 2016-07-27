@@ -1,0 +1,22 @@
+{
+  "name": "99Vidas Lite",
+  "version": "1.0.0",
+  "description": "",
+  "homepage_url": "https://github.com/brenopolanski/99vidas-lite",
+  "manifest_version": 2,
+  "minimum_chrome_version": "50",
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "http://99vidas.com.br/*"
+  ],
+  "icons": {
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  }
+}
