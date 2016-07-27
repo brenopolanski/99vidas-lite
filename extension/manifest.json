@@ -27,8 +27,6 @@
       ],
       "js": [
         "vendor/mousetrap.js",
-        "vendor/mousetrap-global-bind.js",
-        "vendor/mousetrap-bind-dictionary.js",
         "content.js"
       ]
     }

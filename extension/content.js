@@ -65,10 +65,6 @@
     Mousetrap.bind('G', () => {
       scrollToY(document.body.scrollHeight);
     });
-
-    Mousetrap.bind({
-      'shift+2+2+8': () => { window.location = `${rootUrl}99vidas-228-dance-anos-90/` }
-    });
   }
 
   document.addEventListener('DOMContentLoaded', () => {
