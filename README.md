@@ -1,6 +1,6 @@
 # <img src="extension/icon-128.png" width="45" align="left"> [99Vidas](http://99vidas.com.br) Lite
 
-Uma extensão que faz o Chrome usar sempre a versão web mobile do [99Vidas](http://99vidas.com.br), que é muito mais rápido e com melhor aparência do que a versão desktop web. Quando você abre um link que normalmente seria para a interface desktop do [99Vidas](http://99vidas.com.br), esta extensão redireciona para a versão web mobile e faz com que seja mais clean.
+Uma extensão que faz o browser usar sempre a versão web mobile do [99Vidas](http://99vidas.com.br), que é muito mais rápido e com melhor aparência do que a versão desktop web. Quando você abre um link que normalmente seria para a interface desktop do [99Vidas](http://99vidas.com.br), esta extensão redireciona para a versão web mobile e faz com que seja mais clean.
 
 ## Exemplo
 
