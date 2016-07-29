@@ -1,6 +1,6 @@
 # <img src="extension/icon-128.png" width="45" align="left"> [99Vidas](http://99vidas.com.br) Lite
 
-> Uma extensão que faz o Chrome usar sempre a versão web mobile do [99Vidas](http://99vidas.com.br), que é muito mais rápido e com melhor aparência do que a versão desktop web. Quando você abre um link que normalmente seria para a interface desktop do [99Vidas](http://99vidas.com.br), esta extensão redireciona para a versão web mobile e faz com que seja mais clean.
+Uma extensão que faz o Chrome usar sempre a versão web mobile do [99Vidas](http://99vidas.com.br), que é muito mais rápido e com melhor aparência do que a versão desktop web. Quando você abre um link que normalmente seria para a interface desktop do [99Vidas](http://99vidas.com.br), esta extensão redireciona para a versão web mobile e faz com que seja mais clean.
 
 ## Exemplo
 
@@ -9,19 +9,33 @@
 
 ## Instalação
 
+Clonar ou fazer o [download](https://github.com/brenopolanski/99vidas-lite/archive/master.zip) do projeto;
+
 ###### Chrome
 
-1. Clonar ou fazer o [download](https://github.com/brenopolanski/99vidas-lite/archive/master.zip) do projeto;
+1. Navevar para `chrome://extensions`;
 
-2. Navevar até `chrome://extensions`;
+2. Clicar em `Load unpacked extension...`;
+
+3. Selecionar a pasta `extension`.
+
+###### Firefox
+
+1. Navevar para `about:debugging`;
+
+2. Clicar em `Load temporary Add-on`;
+
+3. Selecionar o arquivo `manifest.json` dentro da pasta `extension`.
+
+###### Opera
+
+1. Navevar para `extensions`;
+
+2. Clicar em `Developer Mode`;
 
 3. Clicar em `Load unpacked extension...`;
 
 4. Selecionar a pasta `extension`.
-
-###### Firefox
-
-*Em breve*
 
 ## Teclas de atalho
 
@@ -29,12 +43,12 @@
 - Carregar mais casts: <kbd>space</kbd>
 - Botão play/pause do player: <kbd>p</kbd>
 - Botão mute do player: <kbd>m</kbd>
-- Ir para página principal: <kbd>g</kbd> <kbd>h</kbd>
-- Ir para página 2-pak: <kbd>g</kbd> <kbd>2</kbd>
-- Ir para página 4x4: <kbd>g</kbd> <kbd>4</kbd>
-- Ir para página estilo 99vidas: <kbd>g</kbd> <kbd>9</kbd>
-- Ir para página História dos Videogames: <kbd>g</kbd> <kbd>v</kbd>
-- Ir para página Pancadão: <kbd>g</kbd> <kbd>p</kbd>
+- Ir para página [principal](http://99vidas.com.br/): <kbd>g</kbd> <kbd>h</kbd>
+- Ir para página [2-pak](http://99vidas.com.br/tag/2-pak/): <kbd>g</kbd> <kbd>2</kbd>
+- Ir para página [4x4](http://99vidas.com.br/tag/4x4/): <kbd>g</kbd> <kbd>4</kbd>
+- Ir para página [estilo 99vidas](http://99vidas.com.br/tag/estilo-99vidas/): <kbd>g</kbd> <kbd>9</kbd>
+- Ir para página [História dos Videogames](http://99vidas.com.br/tag/historia-dos-videogames/): <kbd>g</kbd> <kbd>v</kbd>
+- Ir para página [Pancadão](http://99vidas.com.br/tag/pancadao/): <kbd>g</kbd> <kbd>p</kbd>
 - Scroll para o topo: <kbd>g</kbd> <kbd>g</kbd>
 - Scroll para baixo: <kbd>G</kbd>
 

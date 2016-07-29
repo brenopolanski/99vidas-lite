@@ -69,7 +69,10 @@
 
   document.addEventListener('DOMContentLoaded', () => {
     // Hide switch button (mobile | desktop)
-    $('div#switch').style.display = 'none';
+    if ($('div#switch')) {
+      $('div#switch').style.display = 'none';
+    }
+
     registerShortcuts();
   });
 })();
