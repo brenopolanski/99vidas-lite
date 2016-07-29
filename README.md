@@ -9,7 +9,7 @@ Uma extensão que faz o browser usar sempre a versão web mobile do [99Vidas](ht
 
 ## Instalação
 
-Clonar ou fazer o [download](https://github.com/brenopolanski/99vidas-lite/archive/master.zip) do projeto;
+Clonar ou fazer o [download](https://github.com/brenopolanski/99vidas-lite/archive/master.zip) do projeto.
 
 ###### Chrome
 
