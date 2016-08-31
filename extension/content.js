@@ -56,7 +56,7 @@
       window.location = `${rootUrl}tag/pancadao/`;
     });
 
-    // Scroll to top:
+    // Scroll to top
     Mousetrap.bind('g g', () => {
       scrollToY(0);
     });
