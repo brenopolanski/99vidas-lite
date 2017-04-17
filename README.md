@@ -13,7 +13,7 @@ Clonar ou fazer o [download](https://github.com/brenopolanski/99vidas-lite/archi
 
 ###### Chrome
 
-1. Navevar para `chrome://extensions`;
+1. Navegar para `chrome://extensions`;
 
 2. Clicar em `Load unpacked extension...`;
 
@@ -21,7 +21,7 @@ Clonar ou fazer o [download](https://github.com/brenopolanski/99vidas-lite/archi
 
 ###### Firefox
 
-1. Navevar para `about:debugging`;
+1. Navegar para `about:debugging`;
 
 2. Clicar em `Load temporary Add-on`;
 
@@ -29,7 +29,7 @@ Clonar ou fazer o [download](https://github.com/brenopolanski/99vidas-lite/archi
 
 ###### Opera
 
-1. Navevar para `extensions`;
+1. Navegar para `extensions`;
 
 2. Clicar em `Developer Mode`;
 
