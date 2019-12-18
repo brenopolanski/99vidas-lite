@@ -69,4 +69,4 @@ Clonar ou fazer o [download](https://github.com/brenopolanski/99vidas-lite/archi
 
 ## Licença
 
-[MIT License](http://brenopolanski.mit-license.org/) © Breno Polanski
+[MIT License](https://brenopolanski.mit-license.org/) © Breno Polanski
